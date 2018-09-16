@@ -17,7 +17,7 @@
 
 //动画算法
 /*Tween
-		  Linear：无缓动效果(匀速运动)；
+		 Linear：无缓动效果(匀速运动)；
 			Quad：二次方的缓动；
 			Cubic：三次方的缓动
 			Quartic：四次方的缓动；
